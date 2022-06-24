@@ -1,2 +1,2 @@
 # KoishiBotAI
-The repository for the Koishi Komeiji Chatbot made for Discord.
+A repository for the Koishi Komeiji chatbot made for Discord.
